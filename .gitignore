@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# etcd data directory
+default.etcd/
+
+# Vim undo files
+*.un~
